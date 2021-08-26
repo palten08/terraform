@@ -1,0 +1,17 @@
+worker_instances: 3
+master_ip: ""
+master_ip_netmask: 24
+worker_ip_base: ""
+worker_ip_start_octet: 3
+worker_ip_netmask: 24
+ip_gateway: ""
+dns_server_list: [""]
+vc_template_name: ""
+vc_url: ""
+vc_datacenter_name: ""
+vc_cluster_name: ""
+vc_network_name: ""
+vc_datastore_name: ""
+vc_esxi_host_name: ""
+vc_folder_name: ""
+domain_name: ""

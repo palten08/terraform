@@ -1,0 +1,4 @@
+/.terragrunt-cache
+.terraform.lock.hcl
+config.yml
+credentials.yml
